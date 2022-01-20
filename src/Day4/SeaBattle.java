@@ -35,9 +35,7 @@ public class SeaBattle {
         }
         return fields;
     }
-    /*
-    *homework
-     */
+
 
     public static void addShipVertical(char[][] fields, int i, int j)
     {
